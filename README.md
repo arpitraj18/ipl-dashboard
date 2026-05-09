@@ -2,18 +2,13 @@
 
 An all-in-one IPL analytics platform covering every ball from 2008 to 2025.
 
-## Features (live)
+## Features
+
 - **Overview** — season-wise runs, boundaries, dismissals
 - **Player Stats** — batting & bowling profiles, phase-wise breakdown
 - **Team Stats** — win/loss records, top performers
 - **Venue Stats** — ground profiles, toss impact
-
-## Features (coming soon)
-- Win probability predictor (XGBoost)
-- Innings score forecaster (LSTM)
-- Batter vs bowler matchup engine
-- Fantasy XI optimizer
-- Player of the Match predictor
+- **Win Probability Predictor** — ML-based in-match win estimation
 
 ## Run locally
 
